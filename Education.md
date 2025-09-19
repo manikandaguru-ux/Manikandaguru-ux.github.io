@@ -1,4 +1,4 @@
-# Education 
+# Education
 
 ## Educational Qualifications
 - **10th Grade (CBSE):** 446/500  
