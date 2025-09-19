@@ -14,7 +14,7 @@ Motivated law student with strong academic foundation and growing practical know
 ---
 
 ## Quick Links
-- [Resume](resume.md)
+- [Education](education.md)
 - [Internships](internships.md)
 - [Moots](moots.md)
 - [Publications](publications.md)
